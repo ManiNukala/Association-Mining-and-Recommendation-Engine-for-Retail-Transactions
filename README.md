@@ -1,1 +1,1 @@
-# Association-Mining-and-Recommendation-Engine-for-Retail-Transactions
+# Association-Mining-for-Retail-Transactions
